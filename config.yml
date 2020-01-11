@@ -2,6 +2,7 @@ baseURL: "http://chickenauto.com/"
 languageCode: "en-us"
 title: "ChickenAuto - Free Auto TLBB / Dragon Oath"
 theme: "hugo-theme-pure"
+
 defaultContentLanguage: "vi"
 footnoteReturnLinkContents: "↩"
 hasCJKLanguage: true
@@ -24,6 +25,7 @@ outputFormats:          # use for search. recommend not to modify
 
 outputs:
     home: ["HTML","RSS","SearchIndex"]  # recommend not to modify
+
 # sitemap
 sitemap:
   changefreq: monthly
@@ -95,20 +97,18 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
-    author_title: author title
-    author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
-    follow: https://github.com/xiaoheiAh
+    author: ChickenAuto
+    author_title: Auto TLBB / Dragon Oath
+    author_description: Free Auto for TLBB / Dragon Oath
     # Social Links
     social:
       links:
-        github: https://github.com/xiaoheiAh
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
-        # facebook: /
+        facebook: https://www.facebook.com/ChickenAutoTLBB
+        # youtube:
         rss: /index.xml
-      link_tooltip: false # enable the social link tooltip, options: true, false
+      link_tooltip: true # enable the social link tooltip, options: true, false
   # Site
   site:
     logo:
@@ -116,9 +116,9 @@ params:
       width: 40
       height: 40
       url: favicon.ico
-    title: Hugo # 页面title
+    title: ChickenAuto - Free Auto TLBB / Dragon Oath # 页面title
     favicon: favicon.ico
-    board: <p>enjoy~</p> # 公告牌
+    board: <p></p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin

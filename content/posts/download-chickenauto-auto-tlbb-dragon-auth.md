@@ -3,9 +3,7 @@ title: "Download ChickenAuto Auto TLBB Dragon Oath"
 date: 2020-01-11T22:47:47+09:00
 draft: false
 aliases:
-  - /download/
   - /download
-  - /Download/
   - /Download
 ---
 Phần mềm tự động chơi Game Thiên Long Bát Bộ / Dragon Oath / TLBB

@@ -5,28 +5,40 @@
   <url>
     <loc>http://chickenauto.com/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://chickenauto.com/posts/download-chickenauto-auto-tlbb-dragon-auth/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://chickenauto.com/posts/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://chickenauto.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://chickenauto.com/serie/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://chickenauto.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

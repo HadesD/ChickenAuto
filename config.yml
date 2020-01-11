@@ -119,7 +119,7 @@ params:
       url: favicon.ico
     title: ChickenAuto - Free Auto TLBB / Dragon Oath # 页面title
     favicon: favicon.ico
-    board: <p><a class="btn btn-danger" href="/posts/download-chickenauto-auto-tlbb-dragon-oath/">Download Auto</a></p><br /><p><iframe src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/ChickenAutoTLBB&tabs=timeline&width=260&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=304154630289897" height="500" style="border:none;overflow:hidden; width:100%;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></p> # 公告牌
+    board: <p><a class="btn btn-danger" href="/posts/download/">Download Auto</a></p><br /><p><iframe src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/ChickenAutoTLBB&tabs=timeline&width=260&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=304154630289897" height="500" style="border:none;overflow:hidden; width:100%;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin

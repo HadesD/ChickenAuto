@@ -1,0 +1,17 @@
+baseURL: "http://chickenauto.com/"
+languageCode: "en-us"
+title: "ChickenAuto - Free Auto TLBB / Dragon Oath"
+theme: "hugo-theme-pure"
+defaultContentLanguage: "vi"
+footnoteReturnLinkContents: "↩"
+hasCJKLanguage: true
+paginate: 7
+enableEmoji: true
+PygmentsCodeFences: false
+googleAnalytics: ""      # UA-XXXXXXXX-X
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: serie
+

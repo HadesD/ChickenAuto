@@ -1,0 +1,4 @@
+baseURL = "http://chickenauto.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "prologue"

@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "ChickenAuto - Free Auto TLBB / Dragon Oath"
 theme: "hugo-theme-pure"
 
-defaultContentLanguage: "vi"
+defaultContentLanguage: "en"
 footnoteReturnLinkContents: "↩"
 hasCJKLanguage: true
 paginate: 7
@@ -66,7 +66,7 @@ menu:
 
 
 params:
-  since: 2017
+  since: 2019
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: true
   # the directory under content folder that you want to render
@@ -100,6 +100,7 @@ params:
     author: ChickenAuto
     author_title: Auto TLBB / Dragon Oath
     author_description: Free Auto for TLBB / Dragon Oath
+    follow: /
     # Social Links
     social:
       links:
@@ -118,7 +119,7 @@ params:
       url: favicon.ico
     title: ChickenAuto - Free Auto TLBB / Dragon Oath # 页面title
     favicon: favicon.ico
-    board: <p></p> # 公告牌
+    board: <p><a class="btn btn-danger" href="/posts/download-chickenauto-auto-tlbb-dragon-oath/">Download Auto</a></p><br /><p><iframe src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/ChickenAutoTLBB&tabs=timeline&width=260&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=304154630289897" height="500" style="border:none;overflow:hidden; width:100%;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
@@ -195,4 +196,13 @@ params:
     - category
     - tag
     - recent_posts
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+blackfriday:
+  plainIDAnchors: true
+  hrefTargetBlank: true
 

@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "ChickenAuto - Free Auto TLBB / Dragon Oath"
 theme: "hugo-theme-pure"
 
-defaultContentLanguage: "en"
+defaultContentLanguage: en
 footnoteReturnLinkContents: "↩"
 hasCJKLanguage: true
 paginate: 7
@@ -205,4 +205,13 @@ markup:
 blackfriday:
   plainIDAnchors: true
   hrefTargetBlank: true
+
+languages:
+  vi:
+    weight: 1
+    languageName: Tiếng Việt
+
+  en:
+    weight: 2
+    languageName: English
 

@@ -14,7 +14,7 @@ Dưới đây là link download toàn bộ phiên bản ChickenAuto
 
 ##### Bản mới nhất
 
-> <a href="http://chickenauto.com/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a>
+> <a href="/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a>
 
 ##### Phiên bản cũ hơn
 

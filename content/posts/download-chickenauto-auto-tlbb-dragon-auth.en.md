@@ -12,9 +12,14 @@ Phần mềm tự động chơi Game Thiên Long Bát Bộ / Dragon Oath / TLBB
 
 Dưới đây là link download toàn bộ phiên bản ChickenAuto
 
-##### Bản mới nhất
+##### Bản mới nhất - EXE
 
+> <a href="/download/ChickenAuto-new.exe" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a>
+
+##### Bản mới nhất - 7zip
 > <a href="/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a>
+
+> <a href="https://www.7-zip.org/download.html" target="_blank">![Download 7zip](https://www.7-zip.org/7ziplogo.png)</a>
 
 ##### Phiên bản cũ hơn
 
@@ -32,6 +37,7 @@ Dưới đây là link download toàn bộ phiên bản ChickenAuto
 - Tự sử dụng vật phẩm hồi phục (HP, MP, Pet)
 - Tự sử dụng kỹ năng hồi phục của trân thú (Huyết Tế, Cộng Sinh)
 - Tự sử dụng kỹ năng hồi phục của Nga My
+- Tự sử dụng kĩ năng nhân vật
 - ...
 
 #### Tiện ích

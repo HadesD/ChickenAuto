@@ -14,11 +14,14 @@ Dưới đây là link download toàn bộ phiên bản ChickenAuto
 
 ##### Bản mới nhất - EXE
 
-> <a href="/download/ChickenAuto-new.exe" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a>
+> <a href="/download/ChickenAuto-new.exe" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
+> <a href="http://dl.chickenauto.com/ChickenAuto-new.exe" target="_blank">Link Thay Thế</a>
 
 ##### Bản mới nhất - 7zip
-> <a href="/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a>
+> <a href="/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
+> <a href="http://dl.chickenauto.com/ChickenAuto-new.7z" target="_blank">Link Thay Thế</a>
 
+##### Phần mềm hỗ trợ giải nén
 > <a href="https://www.7-zip.org/download.html" target="_blank">![Download 7zip](https://www.7-zip.org/7ziplogo.png)</a>
 
 ##### Phiên bản cũ hơn

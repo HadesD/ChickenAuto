@@ -3,101 +3,101 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chickenauto.com/</loc>
+    <loc>http://chickenauto.com/en/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://chickenauto.com/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chickenauto.com/en/"
+                />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/posts/download-chickenauto-auto-tlbb-dragon-auth/</loc>
+    <loc>http://chickenauto.com/en/posts/download-chickenauto-auto-tlbb-dragon-auth/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/vi/posts/download-chickenauto-auto-tlbb-dragon-auth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://chickenauto.com/posts/download-chickenauto-auto-tlbb-dragon-auth/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chickenauto.com/en/posts/download-chickenauto-auto-tlbb-dragon-auth/"
+                />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/posts/</loc>
+    <loc>http://chickenauto.com/en/posts/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/vi/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://chickenauto.com/posts/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chickenauto.com/en/posts/"
+                />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/categories/</loc>
+    <loc>http://chickenauto.com/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://chickenauto.com/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chickenauto.com/en/categories/"
+                />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/serie/</loc>
+    <loc>http://chickenauto.com/en/serie/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/vi/serie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://chickenauto.com/serie/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://chickenauto.com/en/serie/"
+                />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/tags/</loc>
+    <loc>http://chickenauto.com/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/vi/tags/"
+                href="http://chickenauto.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chickenauto.com/tags/"
+                href="http://chickenauto.com/en/tags/"
                 />
   </url>
   

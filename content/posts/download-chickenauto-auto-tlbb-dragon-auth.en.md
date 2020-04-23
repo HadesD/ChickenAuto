@@ -6,45 +6,49 @@ aliases:
   - /download
   - /Download
 ---
-Phần mềm tự động chơi Game Thiên Long Bát Bộ / Dragon Oath / TLBB
+Auto for Game Dragon Oath / TLBB
 
-## Tải về
+## Download
 
-Dưới đây là link download toàn bộ phiên bản ChickenAuto
-
-##### Bản mới nhất - EXE
+##### Latest - (.exe)
 
 > <a href="/download/ChickenAuto-new.exe" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
 > <a href="http://dl.chickenauto.com/ChickenAuto-new.exe" target="_blank">Link Thay Thế</a>
 
-##### Bản mới nhất - 7zip
+##### Latest - 7zip
 > <a href="/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
 > <a href="http://dl.chickenauto.com/ChickenAuto-new.7z" target="_blank">Link Thay Thế</a>
 
-##### Phần mềm hỗ trợ giải nén
+##### Latest - zip
+> <a href="https://github.com/DevTLBB/AutoTLBB/releases/download/latest/ChickenAuto-new.zip" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
+> <a href="http://dl.chickenauto.com/ChickenAuto-new.zip" target="_blank">Link Thay Thế 1</a><br />
+> <a href="/download/ChickenAuto-new.zip" target="_blank">Link Thay Thế 2</a>
+
+##### Unzip software
 > <a href="https://www.7-zip.org/download.html" target="_blank">![Download 7zip](https://www.7-zip.org/7ziplogo.png)</a>
 
-##### Phiên bản cũ hơn
+##### Previous release
 
 > https://github.com/DevTLBB/AutoTLBB/releases
 
-## Phí sử dụng
+## Fee
 
-- Hoàn toàn miễn phí
+- Free completly
 
-## Chức năng chính
+## Feature
 
-#### Tự đánh
+#### Auto Attack
 
-- Tự động đánh (Đánh quanh, KS quái)
-- Tự sử dụng vật phẩm hồi phục (HP, MP, Pet)
-- Tự sử dụng kỹ năng hồi phục của trân thú (Huyết Tế, Cộng Sinh)
-- Tự sử dụng kỹ năng hồi phục của Nga My
-- Tự sử dụng kĩ năng nhân vật
+- Auto attack (near, lure)
+- Auto use recovery item (HP, MP, Pet)
+- Auto use skill recovery of Pet
+- Auto use Lotus Order recovery skill
+- Auto use skill
 - ...
 
-#### Tiện ích
+#### Utilities
 
-- Tự thăng cấp
+- Auto levelup character
+- Auto pickup loot package
 - ...
 

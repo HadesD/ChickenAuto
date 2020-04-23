@@ -21,6 +21,11 @@ Dưới đây là link download toàn bộ phiên bản ChickenAuto
 > <a href="/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
 > <a href="http://dl.chickenauto.com/ChickenAuto-new.7z" target="_blank">Link Thay Thế</a>
 
+##### Bản mới nhất - zip
+> <a href="https://github.com/DevTLBB/AutoTLBB/releases/download/latest/ChickenAuto-new.zip" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
+> <a href="http://dl.chickenauto.com/ChickenAuto-new.zip" target="_blank">Link Thay Thế 1</a><br />
+> <a href="/download/ChickenAuto-new.zip" target="_blank">Link Thay Thế 2</a>
+
 ##### Phần mềm hỗ trợ giải nén
 > <a href="https://www.7-zip.org/download.html" target="_blank">![Download 7zip](https://www.7-zip.org/7ziplogo.png)</a>
 
@@ -37,10 +42,12 @@ Dưới đây là link download toàn bộ phiên bản ChickenAuto
 #### Tự đánh
 
 - Tự động đánh (Đánh quanh, KS quái)
+- Tự sử dụng kỹ năng
 - Tự sử dụng vật phẩm hồi phục (HP, MP, Pet)
 - Tự sử dụng kỹ năng hồi phục của trân thú (Huyết Tế, Cộng Sinh)
-- Tự sử dụng kỹ năng hồi phục của Nga My
+- Tự sử dụng Thanh Tâm / Xung hư Nga My
 - Tự sử dụng kĩ năng nhân vật
+- Tự nhặt vật phẩm
 - ...
 
 #### Tiện ích

@@ -12,7 +12,12 @@ Phần mềm tự động chơi Game Thiên Long Bát Bộ / Dragon Oath / TLBB
 
 Dưới đây là link download toàn bộ phiên bản ChickenAuto
 
-##### Bản mới nhất - EXE
+##### Bản mới nhất - zip
+> <a href="https://github.com/DevTLBB/AutoTLBB/releases/download/latest/ChickenAuto-new.zip" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
+> <a href="http://dl.chickenauto.com/ChickenAuto-new.zip" target="_blank">Link Thay Thế 1</a><br />
+> <a href="/download/ChickenAuto-new.zip" target="_blank">Link Thay Thế 2</a>
+
+##### Bản mới nhất - (.exe - 7Zip SFX)
 
 > <a href="/download/ChickenAuto-new.exe" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
 > <a href="http://dl.chickenauto.com/ChickenAuto-new.exe" target="_blank">Link Thay Thế</a>
@@ -20,11 +25,6 @@ Dưới đây là link download toàn bộ phiên bản ChickenAuto
 ##### Bản mới nhất - 7zip
 > <a href="/download/ChickenAuto-new.7z" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
 > <a href="http://dl.chickenauto.com/ChickenAuto-new.7z" target="_blank">Link Thay Thế</a>
-
-##### Bản mới nhất - zip
-> <a href="https://github.com/DevTLBB/AutoTLBB/releases/download/latest/ChickenAuto-new.zip" target="_blank">![Download](https://i.imgur.com/dEOGvKA.png)</a><br />
-> <a href="http://dl.chickenauto.com/ChickenAuto-new.zip" target="_blank">Link Thay Thế 1</a><br />
-> <a href="/download/ChickenAuto-new.zip" target="_blank">Link Thay Thế 2</a>
 
 ##### Phần mềm hỗ trợ giải nén
 > <a href="https://www.7-zip.org/download.html" target="_blank">![Download 7zip](https://www.7-zip.org/7ziplogo.png)</a>

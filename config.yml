@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "ChickenAuto - Free Auto TLBB / Dragon Oath"
 theme: "hugo-theme-pure"
 
-defaultContentLanguage: en
+defaultContentLanguage: vi
 footnoteReturnLinkContents: "↩"
 hasCJKLanguage: true
 paginate: 7
@@ -153,13 +153,13 @@ params:
   donate:
     enable: false
     # 微信打赏
-    wechatpay:
-      qrcode: donate/wechatpayimg.png
-      title: 微信支付
+    # wechatpay:
+    #   qrcode: donate/wechatpayimg.png
+    #   title: 微信支付
     # 支付宝打赏
-    alipay:
-      qrcode: donate/alipayimg.png
-      title: 支付宝
+    # alipay:
+    # qrcode: donate/alipayimg.png
+    # title: 支付宝
 
   # PV
   pv:
@@ -207,11 +207,11 @@ blackfriday:
   hrefTargetBlank: true
 
 languages:
-  vi:
-    weight: 1
-    languageName: Tiếng Việt
-
   en:
-    weight: 2
+    weight: 1
     languageName: English
+
+  vi:
+    weight: 2
+    languageName: Tiếng Việt
 

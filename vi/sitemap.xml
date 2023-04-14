@@ -3,101 +3,101 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chickenauto.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chickenauto.com/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/posts/download-chickenauto-auto-tlbb-dragon-auth/</loc>
+    <loc>/posts/download-chickenauto-auto-tlbb-dragon-auth/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chickenauto.com/en/posts/download-chickenauto-auto-tlbb-dragon-auth/"
+                href="/en/posts/download-chickenauto-auto-tlbb-dragon-auth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/posts/download-chickenauto-auto-tlbb-dragon-auth/"
+                href="/posts/download-chickenauto-auto-tlbb-dragon-auth/"
                 />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-01-11T22:47:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chickenauto.com/en/posts/"
+                href="/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/posts/"
+                href="/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chickenauto.com/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/serie/</loc>
+    <loc>/serie/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chickenauto.com/en/serie/"
+                href="/en/serie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/serie/"
+                href="/serie/"
                 />
   </url>
   
   <url>
-    <loc>http://chickenauto.com/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chickenauto.com/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://chickenauto.com/tags/"
+                href="/tags/"
                 />
   </url>
   
